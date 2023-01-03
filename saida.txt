@@ -1,0 +1,8 @@
+4 4 4 
+4 4 4 
+4 4 4 
+
+Soma das linhas: 12 12 12 
+Soma das colunas: 12 12 12 
+Soma diagonal principal 12 e secundaria 12
+Quadrado magico
